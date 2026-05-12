@@ -4,13 +4,13 @@
 
 ## Công cụ
 
-- [ ] Git đã cài và chạy được `git --version`.
-- [ ] Docker đã cài và chạy được `docker --version`.
+- [x] Git đã cài và chạy được `git --version`.
+- [x] Docker đã cài và chạy được `docker --version`.
 - [ ] Docker Compose đã cài và chạy được `docker compose version`.
-- [ ] Node.js đã cài và chạy được `node --version`.
-- [ ] Python hoặc Miniconda đã cài và chạy được `python --version` hoặc `python3 --version`.
-- [ ] VS Code đã cài.
-- [ ] Postman đã cài.
+- [x] Node.js đã cài và chạy được `node --version`.
+- [x] Python hoặc Miniconda đã cài và chạy được `python --version` hoặc `python3 --version`.
+- [x] VS Code đã cài.
+- [x] Postman đã cài.
 
 ## Docker
 
@@ -21,7 +21,7 @@
 
 ## GitHub
 
-- [ ] Đã clone repo lớp.
+- [x] Đã clone repo lớp.
 - [ ] Đã tạo branch Buổi 1.
 - [ ] Đã commit minh chứng Buổi 1.
 - [ ] Đã push lên GitHub.
